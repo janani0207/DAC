@@ -18,6 +18,7 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ## ALGORITHM
 
+
 ### Measurement of Analog Voltage
 1. Send the digital value to DAC.  
 2. Read the corresponding analog value at its output.  
